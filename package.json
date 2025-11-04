@@ -1,0 +1,16 @@
+{
+  "name": "hotel-valle-dos-aromas",
+  "version": "1.0.0",
+  "description": "Site completo para hotel de luxo desenvolvido com HTML, CSS e JavaScript puro, apresentando design elegante em tons de verde e lilás.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./backend/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "type": "module"
+}
